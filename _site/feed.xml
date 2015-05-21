@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
 		<title></title>
-		<description>Stylish Jekyll Theme</description>
-		<link>/</link>
-		<atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+		<description>HackerRank 有很多有趣有难度的好题，值得记录和回味</description>
+		<link>/hackerRankCode/</link>
+		<atom:link href="/hackerRankCode/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
 				<title>test 公式</title>
@@ -16,8 +16,24 @@
 \(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)&lt;/p&gt;
 </description>
 				<pubDate>Wed, 20 May 2015 00:00:00 -0400</pubDate>
-				<link>/general/setup/demo/2015/05/20/test.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2015/05/20/test.html</guid>
+				<link>/hackerRankCode/general/setup/demo/2015/05/20/test.html</link>
+				<guid isPermaLink="true">/hackerRankCode/general/setup/demo/2015/05/20/test.html</guid>
+			</item>
+		
+			<item>
+				<title>hello world</title>
+				<description>&lt;p&gt;hello world!!!!!!&lt;/p&gt;
+
+&lt;p&gt;test 公式 &lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=default&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;script type=&quot;math/tex&quot;&gt;x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}&lt;/script&gt;
+\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\)&lt;/p&gt;
+</description>
+				<pubDate>Tue, 19 May 2015 00:00:00 -0400</pubDate>
+				<link>/hackerRankCode/general/setup/demo/2015/05/19/helloWorld.html</link>
+				<guid isPermaLink="true">/hackerRankCode/general/setup/demo/2015/05/19/helloWorld.html</guid>
 			</item>
 		
 			<item>
@@ -31,8 +47,8 @@
 &lt;p&gt;&lt;a class=&quot;btn btn-default&quot; href=&quot;https://github.com/dbtek/dbyll&quot;&gt;Grab your copy now!&lt;/a&gt;&lt;/p&gt;
 </description>
 				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/setup/demo/2013/11/15/hello-world.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/hello-world.html</guid>
+				<link>/hackerRankCode/general/setup/demo/2013/11/15/hello-world.html</link>
+				<guid isPermaLink="true">/hackerRankCode/general/setup/demo/2013/11/15/hello-world.html</guid>
 			</item>
 		
 			<item>
@@ -52,8 +68,8 @@
   &lt;span class=&quot;l-Scalar-Plain&quot;&gt;email_md5&lt;/span&gt;&lt;span class=&quot;p-Indicator&quot;&gt;:&lt;/span&gt; &lt;span class=&quot;l-Scalar-Plain&quot;&gt;md5ofemail&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 </description>
 				<pubDate>Fri, 15 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/setup/demo/2013/11/15/configuration.html</link>
-				<guid isPermaLink="true">/general/setup/demo/2013/11/15/configuration.html</guid>
+				<link>/hackerRankCode/general/setup/demo/2013/11/15/configuration.html</link>
+				<guid isPermaLink="true">/hackerRankCode/general/setup/demo/2013/11/15/configuration.html</guid>
 			</item>
 		
 			<item>
@@ -68,8 +84,8 @@
 
 </description>
 				<pubDate>Thu, 14 Nov 2013 00:00:00 -0500</pubDate>
-				<link>/general/demo/2013/11/14/sample.html</link>
-				<guid isPermaLink="true">/general/demo/2013/11/14/sample.html</guid>
+				<link>/hackerRankCode/general/demo/2013/11/14/sample.html</link>
+				<guid isPermaLink="true">/hackerRankCode/general/demo/2013/11/14/sample.html</guid>
 			</item>
 		
 	</channel>
